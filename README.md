@@ -1,2 +1,2 @@
 # Autopsy-HashDB
-Script to create a Hash database for Autpsy
+Script to create a Hash database for Autopsy
